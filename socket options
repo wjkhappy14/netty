@@ -1,0 +1,22 @@
+
+ConnectTimeout 	 CONNECT_TIMEOUT		
+WriteSpinCount	WRITE_SPIN_COUNT		
+WriteBufferHighWaterMark	WRITE_BUFFER_HIGH_WATER_MARK		
+WriteBufferLowWaterMark	WRITE_BUFFER_LOW_WATER_MARK		
+AllowHalfClosure	ALLOW_HALF_CLOSURE		
+AutoRead	AUTO_READ		
+SoBroadcast	SO_BROADCAST		
+SoKeepalive	SO_KEEPALIVE		
+SoSndbuf	SO_SNDBUF		
+SoRcvbuf	SO_RCVBUF		
+SoReuseaddr	SO_REUSEADDR		
+SoReuseport	SO_REUSEPORT		
+SoLinger	SO_LINGER		
+SoBacklog	SO_BACKLOG		
+SoTimeout	SO_TIMEOUT		
+IpTos 	IP_TOS		
+IpMulticastAddr	IP_MULTICAST_ADDR		
+IpMulticastIf	IP_MULTICAST_IF		
+IpMulticastTtl	IP_MULTICAST_TTL		
+IpMulticastLoopDisabled	IP_MULTICAST_LOOP_DISABLED		
+TcpNodelay	TCP_NODELAY		
